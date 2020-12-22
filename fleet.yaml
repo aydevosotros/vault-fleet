@@ -21,7 +21,7 @@ helm:
   repo: https://helm.releases.hashicorp.com
   # A custom release name to deploy the chart as. If not specified a release name
   # will be generated.
-  releaseName: QVault
+  releaseName: q-vault
   # The version of the chart or semver constraint of the chart to find. If a constraint
   # is specified it is evaluated each time git changes.
   version: 0.8.0
