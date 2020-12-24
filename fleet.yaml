@@ -33,7 +33,3 @@ helm:
   # Override immutable resources. This could be dangerous.
   force: false
 
-targetCustomizations:
-  - name: dev
-    clusterGroup: dev
-
